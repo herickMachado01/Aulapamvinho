@@ -5,7 +5,9 @@ const  estilo = StyleSheet.create({
         flex:1,
         justifyContent:"center",
         alignItems: 'center',
-        padding: 20
+        padding: 20,
+        width: '100%',
+        height: '100%',
     },
     titulo:{
         color:'#fff',
