@@ -14,7 +14,8 @@ export default function App () {
     <NavigationContainer >
       <Abas.Navigator screenOptions={{
         headerStyle:{
-          backgroundColor: '#400303'
+          backgroundColor: '#400303',
+          borderBottomWidth: 0
         },
         headerTitleStyle: {
           color: '#fff',
